@@ -1,2 +1,2 @@
-# Prompted_Dynamic_Detection
+# Prompt Engineering-assisted Malware Dynamic Analysis Using GPT-4
 Comming Soon ...
