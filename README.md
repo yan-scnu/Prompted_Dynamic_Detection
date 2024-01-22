@@ -1,4 +1,4 @@
-<img src="Theme.jpg" alt="Theme" style="zoom: 25%;" />
+<img src="Theme.jpg" alt="Theme" style="zoom:25%;" />
 
 # Prompt Engineering-assisted Malware Dynamic Analysis Using GPT-4
 
