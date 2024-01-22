@@ -1,4 +1,4 @@
-<img src="Theme.jpg" alt="Theme" style="zoom:25%;" />
+![Theme](https://img2023.cnblogs.com/blog/3381283/202401/3381283-20240121162614810-1446961370.jpg#pic_center =60x60)
 
 # Prompt Engineering-assisted Malware Dynamic Analysis Using GPT-4
 
